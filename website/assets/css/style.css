@@ -3,5 +3,8 @@ body{
 }
 .image {
     width: auto;
-    height: 170px;
+    max-height: 150px;
+}
+.card {
+    max-height: 370px;
 }
